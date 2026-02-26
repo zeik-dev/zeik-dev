@@ -62,9 +62,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://gh-readme.randygermosen.com/api?username=zeik-dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeik-dev&show_icons=true&theme=radical)
 
-![Top Langs](https://gh-readme.randygermosen.com/api/top-langs/?username=zeik-dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeik-dev&layout=compact&theme=radical)
 
 </div>
 
