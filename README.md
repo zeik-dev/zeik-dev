@@ -2,7 +2,7 @@
   
 # Hi there! 👋 I'm Randy  
 
-## 🚀 Full Stack Developer from Santiago, Dominican Republic
+## 🚀 Software Engineer Student from Santiago, Dominican Republic
 
 </div>
 
